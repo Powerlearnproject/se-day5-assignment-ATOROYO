@@ -6,7 +6,7 @@ function App() {
 }
 
 // React V18
-const root = reactDom.createRoot(document.getElementById(roor));
+const root = reactDom.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
