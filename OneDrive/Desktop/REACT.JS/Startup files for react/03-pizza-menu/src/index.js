@@ -65,6 +65,7 @@ function Menu() {}
 
 function Footer() {
   return <footer>{new Date().toLocaleTimeString()}We're currently open</footer>;
+
   // return React.createElement("footer", null, "We're currently opened");
 }
 
