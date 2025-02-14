@@ -56,6 +56,8 @@ function App() {
   );
 }
 
+function Header() {}
+
 function Pizza() {
   return (
     <div>
