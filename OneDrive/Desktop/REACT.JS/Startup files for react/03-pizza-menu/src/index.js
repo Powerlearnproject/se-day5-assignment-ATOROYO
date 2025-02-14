@@ -58,6 +58,8 @@ function App() {
 
 function Header() {}
 
+function Menu() {}
+
 function Pizza() {
   return (
     <div>
